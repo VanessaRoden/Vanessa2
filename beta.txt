@@ -1,0 +1,4 @@
+# Git : https://en.wikipedia.org/wiki/Beta_diversity
+
+# Commit 1:
+In ecology, beta diversity (ß-diversity or true beta diversity) is the ratio between regional and local species diversity. The term was introduced by R. H. Whittaker[1] together with the terms alpha diversity (a-diversity) and gamma diversity (?-diversity). The idea was that the total species diversity in a landscape (?) is determined by two different things, the mean species diversity at the habitat level (a) and the differentiation among habitats (ß). Other formulations for beta diversity include "absolute species turnover", "Whittaker's species turnover" and "proportional species turnover".
