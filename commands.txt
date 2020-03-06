@@ -1,0 +1,40 @@
+    1  mkdir Vanessa-git-workshop
+    2  cd Vanessa-git-workshop/
+    3  ls
+    4  ls -a
+    5  git init
+    6  ls -a
+    7  git add beta.txt
+    8  git add.
+    9  git add .
+   10  git status
+   11  git commit -m "my first commit"
+   12  git commit -m "my second commit"
+   13  git add bayesian.txt
+   14  git status
+   15  git add beta.txt
+   16  git commit -m "my second commit"
+   17  git status
+   18  git add .
+   19  git commit -m "my third commit"
+   20  git status
+   21  git log
+   22  git log -p -2
+   23  git status
+   24  gut checkout -- beta.txt
+   25  git checkout -- beta.txt
+   26  git status
+   27  git add .
+   28  git status
+   29  git commit -m "beetroot"
+   30  git status
+   31  HEAD~ -- beta.txt
+   32  git HEAD~ -- beta.txt
+   33  git checkout HEAD~ -- beta.txt
+   34  git status
+   35  git log
+   36  git log --oneline
+   37  git staus
+   38  git status
+   39  history
+   40  history > commands.txt
